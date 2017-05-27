@@ -17,7 +17,7 @@ The amount of ownership is how we attribute the level of responsibility that a p
 
 **Summary**: Expected to drive results with some support. They have experience in the role, can take responsibility, but are still learning the job and will have questions and need support. They can execute the tactical plan for a project but typically can’t make it.
 
-## Nivel II
+## Level II
 
 **Scope of Influence**: Their projects and pace
 
@@ -25,7 +25,7 @@ The amount of ownership is how we attribute the level of responsibility that a p
 
 **Summary**: Progress beyond 1 but not quite to 3
 
-## Nivel III
+## Level III
 
 **Scope of Influence**: Their area and strategy
 
@@ -33,7 +33,7 @@ The amount of ownership is how we attribute the level of responsibility that a p
 
 **Summary**: Expected to drive results with little or no supervision** (“set and forget”). These folks know how to do the job. They can make a project’s tactical plan. They can work across the organization to get it done.
 
-## Nivel IV
+## Level IV
 
 **Scope of Influence**: Whole organization
 
@@ -41,7 +41,7 @@ The amount of ownership is how we attribute the level of responsibility that a p
 
 **Summary**: Progress beyond 3 but not quite to 5
 
-## Nivel V
+## Level V
 
 **Scope of Influence**: Industry
 
